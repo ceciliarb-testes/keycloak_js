@@ -1,0 +1,8 @@
+{
+  "realm": "teste_cecilia",
+  "auth-server-url": "http://keycloak.qa.pbh/auth",
+  "ssl-required": "external",
+  "resource": "teste_javascript",
+  "public-client": true,
+  "confidential-port": 0
+}
